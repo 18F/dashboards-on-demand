@@ -8,6 +8,7 @@
   * Retheme
   * [Add snapshots](https://github.com/shawnbot/dotgov-screenshots)
   * What else?   
+  
 3) Create an analytics variant  
 4) Create a SSL variant - federal only   
 5) Create a SSL variant - all .govs   
