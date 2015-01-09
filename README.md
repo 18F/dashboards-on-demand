@@ -8,6 +8,7 @@
 * Create a SSL variant - federal only 
 * Create a SSL variant - all .govs 
 * Create a /data, /developer variant 
+* Create an OMB e-gov desk variant [brainstorming here](https://github.com/18F/dashboards-on-demand/issues/1)
 
 
 
