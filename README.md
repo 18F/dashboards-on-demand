@@ -4,6 +4,10 @@
 
 ## Dashboards to Create
 * Host a copy of the [DotGov Browser](dotgov-browser.herokuapp.com/domains)
+* Create a variant customized by 18F
+  * Retheme
+  * [Add snapshots](https://github.com/shawnbot/dotgov-screenshots)
+  * What else?  
 * Create an analytics variant
 * Create a SSL variant - federal only 
 * Create a SSL variant - all .govs 
