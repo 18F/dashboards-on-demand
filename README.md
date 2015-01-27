@@ -14,7 +14,7 @@
 5) Create a SSL variant - all .govs   
 6) Create a /data, /developer variant   
 7) Create an OMB e-gov desk variant [brainstorming here](https://github.com/18F/dashboards-on-demand/issues/1)  
-
+8) Create a version that just calls out www-required
 
 
 
